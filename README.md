@@ -6,6 +6,8 @@
 
 It helps developers inspect application logs, identify error entries, view surrounding log context, and use AI to analyze errors and suggest possible root causes and recommended actions.
 
+Youtube Demo Link: https://youtu.be/XrsZMf9sYG8?si=KYMxjnDDMIjPwpQJ 
+
 ## Features
 
 *  Load and analyze log files
