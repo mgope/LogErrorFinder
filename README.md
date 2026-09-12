@@ -119,7 +119,7 @@ For permanent configuration on Linux, you can add the export to your shell confi
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/mgope/LogErrorFinder.git
 ```
 
 Move into the project directory:
